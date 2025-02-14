@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **🚀 advanced Python concepts, optimizing code efficiency, and best practices in software development.**
 
-- 👨‍💻 All of my projects are available at [🐙 GitHub - https://github.com/soaebhasan12](🐙 GitHub - https://github.com/soaebhasan12)
+- 👨‍💻 All of my projects are available at 🐙 GitHub - https://github.com/soaebhasan12
 
 - 💬 Ask me about **🤖 Python programming, Git & GitHub, automation, and problem-solving in coding .**
 
