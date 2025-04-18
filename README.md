@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="www.linkedin.com/in/saibu-hassaa-789827360">
+  <a href="https://linkedin.com/in/saibu-hassaa-789827360">
     <img align="center" 
          height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
