@@ -24,17 +24,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="www.linkedin.com/in/saibu-hassaa-789827360" target="_blank">
+  <a href="www.linkedin.com/in/saibu-hassaa-789827360">
     <img align="center" 
          height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
-  <a href="https://github.com/soaebhasan12" target="_blank">
+  <a href="https://github.com/soaebhasan12">
     <img align="center" 
          height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   
-  <a href="https://instagram.com/soaebism_11" target="_blank">
+  <a href="https://instagram.com/soaebism_11">
     <img align="center" 
          height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
