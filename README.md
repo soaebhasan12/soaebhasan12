@@ -15,7 +15,10 @@
 
 - 🤝 I’m looking for help with **🚀 advanced Python concepts, optimizing code efficiency, and best practices in software development.**
 
-- 👨‍💻 All of my projects are available at 🐙 GitHub - https://github.com/soaebhasan12
+- 👨‍💻 All of my projects are available at - <a href="https://github.com/soaebhasan12">
+    <img align="center" 
+         height="30" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
 - 💬 Ask me about **🤖 Python programming, Git & GitHub, automation, and problem-solving in coding .**
 
@@ -39,12 +42,10 @@
          height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
-  <a href="mailto:saibuhasan22@gmail.com">
+<a href="https://mail.google.com/mail/#inbox/#compose">
     <img align="center" 
-         height="30"
-         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-         alt="Gmail" />
-  </a>
+         height="30" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
+</a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
