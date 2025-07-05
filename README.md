@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **🏥 Hospital Management**
+- 🔭 I’m currently working on **🏥 Real World Problem - Project**
 
-- 🌱 I’m currently learning **🚀 Python development, Git & GitHub, Django, Advance CSS, data structures, and algorithms.**
+- 🌱 I’m currently learning **🚀 Python development, Git & GitHub, Django, data structures, and algorithms.**
 
 - 👯 I’m looking to collaborate on **🚀 Python projects, automation scripts, and problem-solving challenges.**
 
