@@ -81,43 +81,43 @@
 
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="30" height="30"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="30" height="30"/>
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="30" height="30"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="mysql" width="30" height="30"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html5" width="30" height="30"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="30" height="30"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="30" height="30"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="30" height="30"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/canva.png" alt="canva" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/canva.png" alt="canva" width="30" height="30"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/briefcase.png" alt="portfolio" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/briefcase.png" alt="portfolio" width="30" height="30"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/turtle.png" alt="turtle graphics" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/turtle.png" alt="turtle graphics" width="30" height="30"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/48/python-file.png" alt="tkinter" width="40" height="40"/>
+    <img src="https://img.icons8.com/fluency/48/python-file.png" alt="tkinter" width="30" height="30"/>
   </a>
   <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="api" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="api" width="30" height="30"/>
   </a>
 </p>
 
