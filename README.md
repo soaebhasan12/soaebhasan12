@@ -181,7 +181,9 @@
 
 ### ✍️ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
 
 ---
 
@@ -197,8 +199,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=soaebhasan12&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=soaebhasan12&theme=radical)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=soaebhasan12&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
 
 <!-- ![Gitartwork](https://raw.githubusercontent.com/tubakhxn/tubakhxn/main/gitartwork.svg) -->
 
