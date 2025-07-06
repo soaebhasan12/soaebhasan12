@@ -27,7 +27,7 @@
 ---
 
 ## 💫 About Me
-- 🎯 Exploring **Web Development Using Django** Python's Powerful Framework
+- 🎯 Exploring <img src="https://img.icons8.com/color/24/000000/django.png" width="20" alt="Django" /> **Web Development Using Django - Python Powerful Framework**
 - 💼 Currently working on <img src="https://img.icons8.com/color/24/000000/project.png" width="20" alt="Projects" /> **multiple development projects**
 - 💻 Check out my portfolios:
   - 🌐 [Soaeb Portfolio](https://soaebhasan12.github.io/)
@@ -131,14 +131,14 @@
 ### Frontend
 
 <div align="center">  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" /></a>  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" /></a>  
-  <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="30" /></a>  
-  <a href="https://wordpress.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="30" /></a>  
-  <a href="https://www.figma.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="30" /></a>  
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="30" /></a>  
-  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="30" /></a>  
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" height="40" /></a>  
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" height="40" /></a>  
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" height="40" /></a>  
+  <a href="https://www.tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" height="40" /></a>  
+  <a href="https://wordpress.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" height="40" /></a>  
+  <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" height="40" /></a>  
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" height="40" /></a>  
+  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" height="40" /></a>  
 </div>
 
 </td>
@@ -149,15 +149,15 @@
 ### Backend
 
 <div align="center">  
-  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" /></a>  
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" height="30" style="background:#fff; border-radius:8px; padding:4px;"/></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" /></a>  
-  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" /></a>  
-  <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="30" /></a>  
-  <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="30" /></a>  
-  <a href="#" target="_blank"><img src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="API" height="30" /></a>  
-  <a href="#" target="_blank"><img src="https://img.icons8.com/fluency/48/python-file.png" alt="Tkinter" height="30" /></a>  
-  <a href="#" target="_blank"><img src="https://img.icons8.com/fluency/48/turtle.png" alt="Turtle Graphics" height="30" /></a>  
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="40" /></a>  
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" height="40" /></a>  
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" height="40" /></a>  
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="40" /></a>  
+  <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" height="40" /></a>  
+  <a href="#" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" height="40" /></a>  
+  <a href="#" target="_blank"><img src="https://img.icons8.com/ios-filled/50/api-settings.png" alt="API" height="40" /></a>  
+  <a href="#" target="_blank"><img src="https://img.icons8.com/fluency/48/python-file.png" alt="Tkinter" height="40" /></a>  
+  <a href="#" target="_blank"><img src="https://img.icons8.com/fluency/48/turtle.png" alt="Turtle Graphics" height="40" /></a>  
 </div>
 
 </td>
@@ -168,9 +168,9 @@
 ### DevOps
 
 <div align="center">  
-  <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>  
-  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="30" /></a>  
-  <a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="30" /></a>  
+  <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="Git" height="40" /></a>  
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" height="40" /></a>  
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" height="40" /></a>  
 </div>
 
 </td>
@@ -213,3 +213,8 @@
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
+
+
+
+
+
