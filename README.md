@@ -39,16 +39,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shoaib-ahmad-789827360" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="32" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" height="40" alt="LinkedIn" />
   </a>
   <a href="https://github.com/soaebhasan12" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" height="32" alt="GitHub" />
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" height="40" alt="GitHub" />
   </a>
   <a href="https://stackoverflow.com/users/29864548/shoaib-hasan" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" height="32" alt="Stack Overflow" />
+    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" height="40" alt="Stack Overflow" />
   </a>
   <a href="https://www.youtube.com/@btechWaleNotes" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="32" alt="YouTube" />
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png" height="40" alt="YouTube" />
   </a>
 </p>
 
