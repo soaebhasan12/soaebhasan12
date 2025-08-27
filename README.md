@@ -202,11 +202,11 @@
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
   <tr>
     <!-- Left: Goku GIF -->
-    <td width="50%" align="center" style="padding: 10px;">
+    <td width="30%" align="center" style="padding: 10px;">
       <img src="goku.gif" width="100%" style="max-width: 450px; border-radius: 10px;" alt="Goku Coding" />
     </td>
     <!-- Right: Quote of the Day -->
-    <td width="50%" align="center" style="padding: 10px;">
+    <td width="70%" align="center" style="padding: 10px;">
       <h2 style="color: purple; font-family: 'Segoe UI', sans-serif;">💡 Quote of the Day</h2>
       <a href="https://github.com/piyushsuthar/github-readme-quotes" target="_blank">
         <img 
