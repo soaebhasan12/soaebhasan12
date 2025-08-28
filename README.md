@@ -45,15 +45,15 @@
 
 ## 🔗 Connect with Me
 <table>
-  <tr>
+  <tr width="100%">
     <td colspan="2" style="padding: 0;">
-      <img src="cart.gif" alt="Coding Dev" width="100%" style="height: 30vh; min-height: 200px; object-fit: cover;" />
+      <img src="cart.gif" alt="Coding Dev" width="100%" style="height: 50vh; min-height: 200px; object-fit: cover;" />
     </td>
   </tr>
   <tr>
     <!-- Left Side: GIF -->
     <td width="40%" align="center" style="padding: 20px; vertical-align: middle;">
-      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" style="display: block; margin: 0 auto;" alt="Vector Tool" />
+      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" style="display: block; margin: 0 auto;" alt="Vector Tool" />
     </td>
     <!-- Right Side: Social Links -->
     <td width="60%" align="center" style="
@@ -92,6 +92,8 @@
           <a href="https://stackoverflow.com/users/29864548/shoaib-hasan" target="_blank">
             <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
           </a>
+        </div>
+        <div>
           <a href="https://discord.com/users/soaebhasan04_29194" target="_blank">
             <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
           </a>
