@@ -29,10 +29,15 @@
 ---
 
 ## 💫 About Me
+- 🙋🏻‍♂️ Hey I am **Soaeb Hasan** from INDIA 
 - 🎯 Aspiring **Data Scientist** fueled by curiosity.
+- **Pre-final Year**
+- Parsuing **B.Tech. CSE**
+- Always **Questioning**, **Analyzing** and **Optimizing**.
+- Always Turn **Complex** Data into **Powerful** insight.
 - 💼 Currently working on **Productive Projects**
 - 💻 Check out my portfolios:
-  - 🌐 [Soaeb Hasan](https://soaebhasan12.github.io/)
+  - 🌐 **[Soaeb Hasan](https://soaebhasan12.github.io/)**
 - 📫 Reach me at: soaebhasan04@gmail.com
 
 ---
