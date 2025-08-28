@@ -38,17 +38,18 @@
 ---
 
 <!-- Vector Tool Gif -->
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen alt="Vector Tool" /></p>
+<!-- <p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen alt="Vector Tool" /></p> -->
 
----
+
 
 ## 🔗 Connect with Me
 <table>
   <tr>
+  <img src="cart.gif" alt="Coding Dev" width="100%" />
     <!-- Left Side: GIF -->
     <td width="65%" align="center">
-      <img src="cart.gif" alt="Coding Dev" width="100%" />
+      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen alt="Vector Tool" />
     </td>
     <!-- Right Side: Green Brick Wall -->
     <td align="center" style="
