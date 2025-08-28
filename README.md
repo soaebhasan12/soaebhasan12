@@ -47,7 +47,7 @@
 <table>
   <tr width="100%">
     <td colspan="2" style="padding: 0;">
-      <img src="cart.gif" alt="Coding Dev" width="100%" style="height: 50vh; min-height: 200px; object-fit: cover;" />
+      <img src="cart.gif" alt="Coding Dev" style="object-fit: cover;" />
     </td>
   </tr>
   <tr>
