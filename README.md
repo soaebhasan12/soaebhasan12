@@ -45,7 +45,7 @@
 
 ## 🔗 Connect with Me
 <table>
-  <tr>
+  <tr colspan="2" style="padding: 12px; font-size: 20px;">
   <img src="cart.gif" alt="Coding Dev" width="100%" />
     <!-- Left Side: GIF -->
     <td width="65%" align="center">
