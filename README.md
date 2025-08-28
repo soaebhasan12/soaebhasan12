@@ -46,7 +46,7 @@
 ## 🔗 Connect with Me
 <table>
   <tr colspan="2" style="padding: 12px; font-size: 20px;">
-  <img src="cart.gif" alt="Coding Dev" width="100%" />
+  <img src="cart.gif" alt="Coding Dev" width="100%" height="70% />
     <!-- Left Side: GIF -->
     <td width="65%" align="center">
       <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen alt="Vector Tool" />
