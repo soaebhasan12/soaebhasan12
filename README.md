@@ -45,14 +45,18 @@
 
 ## 🔗 Connect with Me
 <table>
-  <tr colspan="2" style="padding: 12px; font-size: 20px;">
-  <img src="cart.gif" alt="Coding Dev" width="100%" height="70% />
-    <!-- Left Side: GIF -->
-    <td width="65%" align="center">
-      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen alt="Vector Tool" />
+  <tr>
+    <td colspan="2" style="padding: 0;">
+      <img src="cart.gif" alt="Coding Dev" width="100%" style="height: 30vh; min-height: 200px; object-fit: cover;" />
     </td>
-    <!-- Right Side: Green Brick Wall -->
-    <td align="center" style="
+  </tr>
+  <tr>
+    <!-- Left Side: GIF -->
+    <td width="40%" align="center" style="padding: 20px; vertical-align: middle;">
+      <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" style="display: block; margin: 0 auto;" alt="Vector Tool" />
+    </td>
+    <!-- Right Side: Social Links -->
+    <td width="60%" align="center" style="
       padding: 20px;
       background:
         repeating-linear-gradient(
@@ -73,33 +77,37 @@
       background-position: 0 0;
       border-radius: 12px;
       box-shadow: 0 0 10px rgba(0,0,0,0.2);
+      vertical-align: middle;
     ">
-      <!-- Social Row 1 -->
-      <div style="margin-bottom: 10px;">
-        <a href="https://www.linkedin.com/in/shoaib-ahmad-789827360" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-      </div>
-      <div style="margin-bottom: 10px;">
-        <a href="https://stackoverflow.com/users/29864548/shoaib-hasan" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/stackoverflow-E4405F?style=for-the-badge&logo=stackoverflow&logoColor=white" />
-        </a>
-        <a href="https://discord.com/users/soaebhasan04_29194" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-        </a>
-      </div>
-      <!-- Coding Profiles Row 3 -->
-      <div style="margin-bottom: 10px;">
-        <a href="https://www.youtube.com/@btechWaleNotes" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/youtube-FFA116?style=for-the-badge&logo=youtube&logoColor=black" />
-        </a>
-        </a>
-      </div>
-      <!-- Medium Row 4 (Centered like a base) -->
-      <div>
-        <a href="https://github.com/soaebhasan12" target="_blank" style="margin: 4px; display: inline-block;">
-          <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+      <!-- Social Links Container -->
+      <div style="display: flex; flex-direction: column; gap: 12px;">
+        <!-- LinkedIn -->
+        <div>
+          <a href="https://www.linkedin.com/in/shoaib-ahmad-789827360" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          </a>
+        </div>
+        <!-- Stack Overflow & Discord -->
+        <div style="display: flex; justify-content: center; gap: 15px;">
+          <a href="https://stackoverflow.com/users/29864548/shoaib-hasan" target="_blank">
+            <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+          </a>
+          <a href="https://discord.com/users/soaebhasan04_29194" target="_blank">
+            <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+          </a>
+        </div>
+        <!-- YouTube -->
+        <div>
+          <a href="https://www.youtube.com/@btechWaleNotes" target="_blank">
+            <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+          </a>
+        </div>
+        <!-- GitHub -->
+        <div>
+          <a href="https://github.com/soaebhasan12" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          </a>
+        </div>
       </div>
     </td>
   </tr>
