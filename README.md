@@ -45,9 +45,16 @@
 
 ## 🔗 Connect with Me
 <table>
-  <tr width="100%">
+  <tr>
     <td colspan="2" style="padding: 0;">
-      <img src="cart.gif" alt="Coding Dev" style="object-fit: cover;" />
+      <img src="cart.gif" alt="Coding Dev" style="object-fit: cover; width: 100%;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding: 0; text-align: center;">
+      <a href="https://holopin.io/@soaebhasan12" target="_blank">
+        <img src="https://holopin.me/soaebhasan12" alt="An image of @soaebhasan12's Holopin badges" style="max-width: 100%;" />
+      </a>
     </td>
   </tr>
   <tr>
