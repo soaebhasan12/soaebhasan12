@@ -116,7 +116,7 @@
   </tr>
 </table>
 
-# 🏷️ Hacktoberfest 2025
+## 🏷️ Hacktoberfest 2025
 <table>
   <tr>
     <td colspan="2" style="padding: 0; text-align: center;">
