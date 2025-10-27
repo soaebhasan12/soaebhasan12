@@ -50,13 +50,7 @@
       <img src="cart.gif" alt="Coding Dev" style="object-fit: cover; width: 100%;" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" style="padding: 0; text-align: center;">
-      <a href="https://holopin.io/@soaebhasan12" target="_blank">
-        <img src="https://holopin.me/soaebhasan12" alt="An image of @soaebhasan12's Holopin badges" style="max-width: 100%;" />
-      </a>
-    </td>
-  </tr>
+
   <tr>
     <!-- Left Side: GIF -->
     <td width="40%" align="center" style="padding: 20px; vertical-align: middle;">
@@ -118,6 +112,15 @@
           </a>
         </div>
       </div>
+    </td>
+  </tr>
+
+# Hacktoberfest 2025
+  <tr>
+    <td colspan="2" style="padding: 0; text-align: center;">
+      <a href="https://holopin.io/@soaebhasan12" target="_blank">
+        <img src="https://holopin.me/soaebhasan12" alt="An image of @soaebhasan12's Holopin badges" style="max-width: 100%;" />
+      </a>
     </td>
   </tr>
 </table>
