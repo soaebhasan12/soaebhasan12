@@ -114,8 +114,10 @@
       </div>
     </td>
   </tr>
+</table>
 
-# Hacktoberfest 2025
+# 🏷️ Hacktoberfest 2025
+<table>
   <tr>
     <td colspan="2" style="padding: 0; text-align: center;">
       <a href="https://holopin.io/@soaebhasan12" target="_blank">
@@ -124,9 +126,6 @@
     </td>
   </tr>
 </table>
-
-
-
 
 
 
