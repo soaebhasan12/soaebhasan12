@@ -31,8 +31,8 @@
 ## 💫 About Me
 - 🎯 Aspiring **Data Scientist** fueled by curiosity.
 - 💼 Currently working on **Productive Projects**
-- 💻 Check out my portfolios:
-  - 🌐 [Soaeb Hasan](https://soaebhasan12.github.io/)
+- 💻 Check out my portfolio:
+  - 🌐 [SHOAIB AHAMAD](https://soaebhasan12.github.io/)
 - 📫 Reach me at: soaebhasan04@gmail.com
 
 ---
