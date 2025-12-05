@@ -32,7 +32,7 @@
 - 🎯 Aspiring **Data Scientist** fueled by curiosity.
 - 💼 Currently working on **Productive Projects**
 - 💻 Check out my portfolio:
-  - 🌐 [SHOAIB AHAMAD](https://soaebhasan12.github.io/)
+  - 🌐 [SHOAIB AHAMAD](https://soaebhasan12.github.io/personal-repo)
 - 📫 Reach me at: soaebhasan04@gmail.com
 
 ---
