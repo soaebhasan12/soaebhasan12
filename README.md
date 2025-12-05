@@ -29,7 +29,7 @@
 ---
 
 ## 💫 About Me
-- 🎯 Aspiring **DPython Backend Engineer** fueled by curiosity.
+- 🎯 Aspiring **Python Backend Engineer** fueled by curiosity.
 - 💼 Currently working on **Productive Projects**
 - 💻 Check out my portfolio:
   - 🌐 [SHOAIB AHAMAD](https://soaebhasan12.github.io/personal-repo/)
