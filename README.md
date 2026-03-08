@@ -29,10 +29,10 @@
 ---
 
 ## 💫 About Me
-- 🎯 Aspiring **Python Backend Engineer** fueled by curiosity.
-- 💼 Currently working on **Productive Projects**
+- 🎯 Aspiring **Software Engineer** fueled by curiosity.
+- 💼 Currently working on **Malware Detection Using ML and DL**
 - 💻 Check out my portfolio:
-  - 🌐 [SHOAIB AHAMAD](https://soaebhasan12.github.io/personal-repo/)
+  - 🌐 [SHOAIB AHAMAD]([https://soaebhasan12.github.io/personal-repo/](https://soaebhasan04.pythonanywhere.com/))
 - 📫 Reach me at: soaebhasan04@gmail.com
 
 ---
