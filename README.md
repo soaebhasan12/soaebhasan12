@@ -32,7 +32,7 @@
 - 🎯 Aspiring **Software Engineer** fueled by curiosity.
 - 💼 Currently working on **Malware Detection Using ML and DL**
 - 💻 Check out my portfolio:
-  - 🌐 [SHOAIB HASAn]([https://soaebhasan04.pythonanywhere.com/])
+  - 🌐 [`SOAEB HASAN`](https://soaebhasan04.pythonanywhere.com/)
 - 📫 Reach me at: soaebhasan04@gmail.com
 
 ---
