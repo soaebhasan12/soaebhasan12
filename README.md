@@ -3,7 +3,7 @@
 
 <!-- Greet Line Comes Here -->
 <p align="center">
-<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Welcome+to+My+Coding+Universe+🚀;Python+%26+Django+Solutions+🐍;Building+Dreams,+One+Project+💡;Connect+%26+Grow+Together+🤝;Explore,+Learn,+Innovate+🌟;Collaboration+Starts+Here+✨;Thanks+for+Visiting!+🙏&timestamp=20250706" alt="Engaging Typing SVG"></a>
+<a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Welcome+to+My+Coding+Universe+🚀;Python,+AI,+ML,+%26+Django+Solutions+🐍;Building+Dreams,+One+Project+💡;Connect+%26+Grow+Together+🤝;Explore,+Learn,+Innovate+🌟;Collaboration+Starts+Here+✨;Thanks+for+Visiting!+🙏&timestamp=20250706" alt="Engaging Typing SVG"></a>
 </p>
 
 <img src="car.gif" alt="Banner" width="100%" style="max-width: 900px; height: auto; border-radius: 12px;" />
@@ -13,12 +13,12 @@
 </p>
 
 <!-- Intro -->
-<h3 align="center">A Passionate Python Backend Developer from India 🇮🇳</h3>
+<h3 align="center">Computer Science Student | Python Developer | AI/ML Enthusiast 🇮🇳</h3>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/soaebhasan12">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer;Django%20Specialist;Full%20Stack%20Engineer;Open%20Source%20Contributor;Lifelong%20Learner&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45&timestamp=20250706" alt="Typing SVG: Python Developer, Django Specialist, Full Stack Engineer, Open Source Contributor, Lifelong Learner">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Python%20Developer%20In%20Training;Aspiring%20AI/ML%20Engineer;Exploring%20AI/ML%20%26%20Cybersecurity;Open%20Source%20Contributor;Lifelong%20Learner&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45&timestamp=20250706" alt="Typing SVG: Python Developer In Training, Aspiring AI/ML Engineer, Exploring AI/ML & Cybersecurity, Open Source Contributor, Lifelong Learner">
   </a>
 </p>
 
@@ -30,10 +30,42 @@
 
 ## 💫 About Me
 - 🎯 Aspiring **Software Engineer** fueled by curiosity.
-- 💼 Currently working on **Malware Detection Using ML and DL**
+- 💼 Backend Python Developer specializing in Django and FastAPI
+- 🧠 Passionate about applying Machine Learning & Deep Learning to Cybersecurity problems
+- 🔭 Current focus: Malware detection using advanced NLP techniques like multi-view DistilBERT
 - 💻 Check out my portfolio:
   - 🌐 [`SOAEB HASAN`](https://soaebhasan04.pythonanywhere.com/)
 - 📫 Reach me at: soaebhasan04@gmail.com
+
+---
+
+## 💼 Experience
+
+- **CyberSecurity Using Machine Learning and Deep Learning Intern | IIT Roorkee** (Jan'26 - Apr'26)
+  - Developed MalBERT-XAI, a novel multi-view DistilBERT model with cross-attention fusion for Android malware detection (99.5% accuracy, 5-class family classification)
+  - Built end-to-end pipeline: APK feature extraction, multi-view tokenization, transformer training, and 3-level explainability framework (LIME + SHAP + Attention)
+  
+- **Open Source Mentor | GirlScript Summer of Code (GSSOC)** (Sep'25 - Nov'25) 
+  - Mentored 10+ student contributors on best practices in Full Stack development using Python and Django, reviewing code and providing constructive feedback
+  - Facilitated a collaborative environment, leading to the successful merging of 30+ pull requests into main project repositories
+
+---
+
+## 🚀 Projects
+
+- **Android Malware Detection using Multi-View Transformer** (Python | PyTorch | Transformers | Deep Learning | NLP | DistilBERT | LIME | SHAP)
+  - Built MalBERT-XAI, a multi-view transformer architecture with cross-attention fusion for Android malware detection, achieving 99.5% binary accuracy and 94.3% family classification
+  - Engineered a 4-view feature pipeline extracting permissions, API calls, intents, and opcodes from APKs, replacing single-input approach and improving accuracy from 91.6% to 99.5%
+  - Implemented a 3-level explainability framework (attention weights + SHAP + LIME) to interpret model decisions at view-level, global, and token-level granularity
+
+- **AI-Powered Organ Matching Platform** (Django | Python | Scikit-learn | Tailwind | HTMX | Alpine.js)
+  - Built an AI-powered organ matching platform using TF-IDF vectorization and cosine similarity to quantify donor-recipient compatibility, achieving 95% model accuracy
+  - Designed a multi-layered prediction pipeline combining unsupervised similarity scoring with rule-based clinical constraints to produce medically sound ranked recommendations
+  - Engineered end-to-end data preprocessing, feature engineering, and model serialization workflows using Scikit-learn, enabling real-time inference with sub-second response times
+  
+- **Multivariable Regression for Housing Price Prediction** (Pandas | Numpy | Scikit-learn | Matplotlib)
+  - Developed a regression model to predict Boston housing prices, achieving an R² score of 0.85 through rigorous exploratory data analysis (EDA) and feature engineering
+  - Utilized Pandas for data cleaning and Matplotlib for data visualization to identify key price-influencing factors
 
 ---
 
@@ -143,7 +175,7 @@
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/JavaScript.svg" height="50" title="JavaScript" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Light.svg" height="50" title="Next.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Light.svg" height="50" title="Python" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/HTML.svg" height="50" title="HTML5" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/CSS.svg" height="50" title="CSS3" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/TailwindCSS-Light.svg" height="50" title="Tailwind CSS" /></td>
@@ -164,13 +196,14 @@
 
   <!-- 🧠 Data Science & Gen AI -->
   <tr>
-    <th colspan="6" style="padding: 12px; font-size: 20px;">🧠 Data Science & Gen AI</th>
+    <th colspan="6" style="padding: 12px; font-size: 20px;">🧠 Machine Learning & Cybersecurity</th>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Python-Dark.svg" height="50" title="Python" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" title="PyTorch" /></td>
+    <td><img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="50" title="HuggingFace Transformers" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" title="NumPy" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" title="Pandas" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" height="50" title="OpenAI" /></td>
   </tr>
 
   <!-- ⚙️ Backend & Frameworks -->
@@ -180,8 +213,8 @@
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Django.svg" height="50" title="Django" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original-wordmark.svg" height="50" title="FastAPI" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/Tornado-original.svg" height="50" title="tornado" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/RestAPI-original.svg" height="50" title="RestAPI" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="50" title="Flask" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" height="50" title="Postman" /></td>
   </tr>
 
   <!-- 🗄️ Databases & Tools -->
@@ -191,31 +224,24 @@
   <tr>
     <!-- <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MongoDB.svg" height="50" title="MongoDB" /></td> -->
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/MySQL-Dark.svg" height="50" title="MySQL" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" height="50" title="SQLite" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="50" title="SQLite" />
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Git.svg" height="50" title="Git" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Light.svg" height="50" title="GitHub" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Vercel-Light.svg" height="50" title="Vercel" /></td>
   </tr>
-
+  
   <tr>
     <th colspan="6" style="padding: 12px; font-size: 20px;">🧠 DevOps</th>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Light.svg" height="50" title="GitHub" /></td>
-    <td><img src="https://img.icons8.com/color/48/000000/powershell.png" height="50" title="SQLite" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons/icons/Github-Light.svg" height="50" title="GitHub Actions" /></td>
+    <td><img src="https://img.icons8.com/color/48/000000/powershell.png" height="50" title="PowerShell" /></td>
     <td><img src="https://img.icons8.com/color/48/000000/docker.png" height="50" title="Docker" /></td>
   </tr>
 
 </table>
 
-
-
-
-
-
-
 ---
-
 
 <!-- Quote of the Day + GIF Section -->
 ## 💭 Thought of the Day
@@ -283,18 +309,10 @@
     </td>
     <td colspan="2" align="center">
       <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soaebhasan12&theme=github_dark"/>
-      </p>
+        <img src="https://github-profile-trophy.vercel.app/?username=soaebhasan12&column=7&theme=onedark" alt="GitHub Trophies" />
+      </p>  
     </td>
   </tr>
-
-
-  <!-- Profile Details Graph (unchanged) -->
-  <!-- <tr>
-    <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soaebhasan12&theme=dark&hide_border=false" width="100%" style="max-width: 450px; height: auto;" alt="Profile details badge" />
-    </td>
-  </tr> -->
 
 </table>
 
@@ -316,7 +334,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soaebhasan12&label=FANS&color=blue&style=flat" alt="soaebhasan12" Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=soaebhasan12&label=FANS&color=blue&style=flat" alt="soaebhasan12 Profile Views" />
 </p>
 
 
