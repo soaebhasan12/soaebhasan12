@@ -58,7 +58,7 @@
   - Engineered a 4-view feature pipeline extracting permissions, API calls, intents, and opcodes from APKs, replacing single-input approach and improving accuracy from 91.6% to 99.5%
   - Implemented a 3-level explainability framework (attention weights + SHAP + LIME) to interpret model decisions at view-level, global, and token-level granularity
 
-- **AI-Powered Organ Matching Platform** (Django | Python | Scikit-learn | Tailwind | HTMX | Alpine.js)
+- **AI-Powered Organ Matching Platform** (Django | Python | Scikit-learn | Tailwind | HTMX | Alpine.js) - [Live Link](https://organbridge.onrender.com/)
   - Built an AI-powered organ matching platform using TF-IDF vectorization and cosine similarity to quantify donor-recipient compatibility, achieving 95% model accuracy
   - Designed a multi-layered prediction pipeline combining unsupervised similarity scoring with rule-based clinical constraints to produce medically sound ranked recommendations
   - Engineered end-to-end data preprocessing, feature engineering, and model serialization workflows using Scikit-learn, enabling real-time inference with sub-second response times
