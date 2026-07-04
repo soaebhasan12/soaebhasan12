@@ -29,25 +29,34 @@
 ---
 
 ## 💫 About Me
-- 🎯 Aspiring **Software Engineer** fueled by curiosity.
-- 💼 Backend Python Developer specializing in Django and FastAPI
-- 🧠 Passionate about applying Machine Learning & Deep Learning to Cybersecurity problems
-- 🔭 Current focus: Malware detection using advanced NLP techniques like multi-view DistilBERT
+3rd year CSE student building full-stack and ML projects. Experienced in Python, Django, and Machine Learning.
+Open source contributor (Kolibri). Mentor at GSSOC. Looking for backend/ML engineering internship where I can
+solve real problems and learn from experienced teams.
 - 💻 Check out my portfolio:
   - 🌐 [`SOAEB HASAN`](https://soaebhasan04.pythonanywhere.com/)
-- 📫 Reach me at: soaebhasan04@gmail.com
+- 📫 Reach me at:  hasan.soaeb.ali@gmail.com
 
 ---
 
 ## 💼 Experience
 
-- **CyberSecurity Using Machine Learning and Deep Learning Intern | IIT Roorkee** (Jan'26 - Apr'26)
-  - Developed MalBERT-XAI, a novel multi-view DistilBERT model with cross-attention fusion for Android malware detection (99.5% accuracy, 5-class family classification)
-  - Built end-to-end pipeline: APK feature extraction, multi-view tokenization, transformer training, and 3-level explainability framework (LIME + SHAP + Attention)
+- **Open Source Contributor | Kolibri (Learning Equality)** (Jun'26 - Present)
+  - Migrating and testing Vue component test suite from @vue/test-utils to Vue Testing Library
+  - Designed 8+ comprehensive test cases covering user interactions, async operations, and error handling
+  - All tests passing with code review approval from maintainers
+  - Learning: VTL best practices, test-driven development, Git workflow
+    
+- **Machine Learning Internship | IIT Roorkee** (Feb’26 - May’26)
+  - Developed multi-view transformer model (MalBERT-XAI) for Android malware detection using PyTorch
+  - Achieved 99.5% binary accuracy and 94.3% family classification across 5 malware families
+  - Built full ML pipeline: APK parsing → feature extraction (permissions, API calls, opcodes) → tokenization → model training → evaluation
+  - Implemented interpretability layer using LIME + SHAP to explain model predictions
+  - Key Learning: Transformer architectures, multi-task learning, model interpretability
   
 - **Open Source Mentor | GirlScript Summer of Code (GSSOC)** (Sep'25 - Nov'25) 
-  - Mentored 10+ student contributors on best practices in Full Stack development using Python and Django, reviewing code and providing constructive feedback
-  - Facilitated a collaborative environment, leading to the successful merging of 30+ pull requests into main project repositories
+  - Mentored 10+ student contributors on Python/Django full-stack development best practices
+  - Reviewed and provided feedback on 30+ pull requests before merging to main repository
+  - Helped contributors learn debugging, code quality, and professional Git workflows
 
 ---
 
@@ -59,13 +68,28 @@
   - Implemented a 3-level explainability framework (attention weights + SHAP + LIME) to interpret model decisions at view-level, global, and token-level granularity
 
 - **AI-Powered Organ Matching Platform** (Django | Python | Scikit-learn | Tailwind | HTMX | Alpine.js) - [Live Link](https://organbridge.onrender.com/)
-  - Built an AI-powered organ matching platform using TF-IDF vectorization and cosine similarity to quantify donor-recipient compatibility, achieving 95% model accuracy
-  - Designed a multi-layered prediction pipeline combining unsupervised similarity scoring with rule-based clinical constraints to produce medically sound ranked recommendations
-  - Engineered end-to-end data preprocessing, feature engineering, and model serialization workflows using Scikit-learn, enabling real-time inference with sub-second response times
+  - **Problem:** Manual donor-recipient matching is slow and error-prone in organ transplant systems.
+
+  - **Solution Built:**
+    - Designed ML pipeline matching donors to recipients using TF-IDF + cosine similarity on 15+ clinical features (blood type, urgency, proximity, etc.) — 95% accuracy on 900+ records
+    - Full-stack: Backend REST API (Django) + Frontend (Tailwind/HTMX) + ML model serialization
+    - Implemented business rules layer (blood type constraints, urgency prioritization) on top of ML scores
+    - Achieved sub-second inference time for real-time recommendations in production environment
   
-- **Multivariable Regression for Housing Price Prediction** (Pandas | Numpy | Scikit-learn | Matplotlib)
-  - Developed a regression model to predict Boston housing prices, achieving an R² score of 0.85 through rigorous exploratory data analysis (EDA) and feature engineering
-  - Utilized Pandas for data cleaning and Matplotlib for data visualization to identify key price-influencing factors
+  - **Key Learning:** Balancing ML accuracy with domain-specific business rules
+  
+- **Boston Housing Price Prediction Model** (Pandas | Numpy | Scikit-learn | Matplotlib)
+  - **Problem:** Given historical house data, predict future housing prices with confidence.
+
+  - **Solution Built:**
+    - Exploratory Data Analysis: Identified 5 key price-influencing features (location, age, crime rate)
+      using correlation analysis and statistical tests
+    - Feature Engineering: Created polynomial features and handled outliers — improved baseline by 12%
+    - Model Development: Trained multiple regression models (Linear Regression, Ridge, Lasso),  
+      selected best using cross-validation (R² = 0.85)
+    - Visualization: Created heatmaps and scatter plots to communicate findings
+  
+  - **Key Learning:** ML project workflow — EDA → feature engineering → model selection → validation
 
 ---
 
