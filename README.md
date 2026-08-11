@@ -29,7 +29,7 @@
 ---
 
 ## 💫 About Me
-3rd year CSE student building full-stack and ML projects. Experienced in Python, Django, and Machine Learning.
+3rd year B.Tech. CSE student building full-stack and ML projects. Experienced in Python, Django, React, React-Native, Node, Express, and Machine Learning.
 Open source contributor (Kolibri). Mentor at GSSOC. Looking for backend/ML engineering internship where I can
 solve real problems and learn from experienced teams.
 - 💻 Check out my portfolio:
@@ -46,17 +46,12 @@ solve real problems and learn from experienced teams.
   - All tests passing with code review approval from maintainers
   - Learning: VTL best practices, test-driven development, Git workflow
     
-- **Machine Learning Internship | IIT Roorkee** (Feb’26 - May’26)
+- **Android Malware Detection using ML | Internship IIT Roorkee** (Feb’26 - May’26)
   - Developed multi-view transformer model (MalBERT-XAI) for Android malware detection using PyTorch
   - Achieved 99.5% binary accuracy and 94.3% family classification across 5 malware families
   - Built full ML pipeline: APK parsing → feature extraction (permissions, API calls, opcodes) → tokenization → model training → evaluation
   - Implemented interpretability layer using LIME + SHAP to explain model predictions
   - Key Learning: Transformer architectures, multi-task learning, model interpretability
-  
-- **Open Source Mentor | GirlScript Summer of Code (GSSOC)** (Sep'25 - Nov'25) 
-  - Mentored 10+ student contributors on Python/Django full-stack development best practices
-  - Reviewed and provided feedback on 30+ pull requests before merging to main repository
-  - Helped contributors learn debugging, code quality, and professional Git workflows
 
 ---
 
@@ -67,7 +62,7 @@ solve real problems and learn from experienced teams.
   - Engineered a 4-view feature pipeline extracting permissions, API calls, intents, and opcodes from APKs, replacing single-input approach and improving accuracy from 91.6% to 99.5%
   - Implemented a 3-level explainability framework (attention weights + SHAP + LIME) to interpret model decisions at view-level, global, and token-level granularity
 
-- **AI-Powered Organ Matching Platform** (Django | Python | Scikit-learn | Tailwind | HTMX | Alpine.js) - [Live Link](https://organbridge.onrender.com/)
+- **AI-Powered Organ Matching Platform** (Django | Python | Scikit-learn | Tailwind | HTMX | Alpine.js) - [Live Project](https://organbridge-qjin.onrender.com/)
   - **Problem:** Manual donor-recipient matching is slow and error-prone in organ transplant systems.
 
   - **Solution Built:**
@@ -90,6 +85,16 @@ solve real problems and learn from experienced teams.
     - Visualization: Created heatmaps and scatter plots to communicate findings
   
   - **Key Learning:** ML project workflow — EDA → feature engineering → model selection → validation
+ 
+- **BarberBook — Full-Stack Mobile Booking Marketplace** (React Native | Expo | Node.js | Express | MongoDB | Razorpay | Firebase FCM) - [GitHub Repo](https://github.com/soaebhasan12/barber-app-frontend)
+  - **Problem:** Local barbershops and salons rely on phone calls and walk-ins for bookings, leading to double-bookings, no-shows, and no centralized way for owners to manage staff, services, or daily schedules.
+  - **Solution Built:**
+    - Built a two-sided marketplace app end-to-end (mobile frontend + REST API backend) supporting separate customer and shop-owner experiences on one codebase
+    - Implemented phone-number + OTP authentication with stateless JWT sessions, and Razorpay payment integration with server-side HMAC-SHA256 signature verification
+    - Designed a real-time booking engine with timezone-safe (IST) slot-availability logic and Firebase Cloud Messaging push notifications, including per-device token scoping to prevent cross-account notification leaks
+    - Executed a full app-wide UI/UX redesign (color system, iconography, navigation) through a single centralized design-token theme file, avoiding hardcoded styling across 10+ screens
+
+  - **Key Learning:** Designing for statelessness (JWT) and single-source-of-truth theming early made both security and large-scale visual changes dramatically cheaper later in the project.
 
 ---
 
