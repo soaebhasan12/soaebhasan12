@@ -29,7 +29,7 @@
 ---
 
 ## 💫 About Me
-3rd year B.Tech. CSE student building full-stack and ML projects. Experienced in Python, Django, React, React-Native, Node, Express, and Machine Learning.
+Final year B.Tech. CSE student building full-stack and ML projects. Experienced in Python, Pytorch, Django, React, and Machine Learning.
 Open source contributor (Kolibri). Mentor at GSSOC. Looking for backend/ML engineering internship where I can
 solve real problems and learn from experienced teams.
 - 💻 Check out my portfolio:
@@ -56,13 +56,28 @@ solve real problems and learn from experienced teams.
 ---
 
 ## 🚀 Projects
+- **Stereo Distance Estimation with OpenCV** | (C++/Qt, OpenCV)	[Repo](https://github.com/soaebhasan12/stereo-distance-estimation-with-opencv)
+  - Developed a desktop application for stereo-camera calibration and rough distance estimation using OpenCV and Qt
+  - Implemented camera calibration workflow with chessboard patterns, intrinsic/extrinsic parameter estimation, and image rectification for stereo alignment.
+  - Gained practical exposure to epipolar geometry, triangulation, and 3D perception fundamentals relevant to computer vision research.
+
+- **Pothole Detection and Depth Estimation System** | (Python, OpenCV, YOLO, SQLite)	[Repo](https://github.com/soaebhasan12/pothole-detection-system)
+  - Developed a computer vision pipeline to process video and live camera feeds for pothole detection using YOLO-based object detection.
+  - Integrated MiDaS for relative depth estimation to assess pothole severity and improve scene understanding in road environments.
+  - Built an end-to-end system for detection tracking, timestamped logging, and storage of results in SQLite for analysis and reporting.
+  - Worked on real-time perception, vision-based anomaly detection, and practical deployment of deep learning models in a real-world driving context.
+
+- **GovVault: Local-First RAG for Government Documents** | (Django, React, pgvector, Celery)	[Repo](https://github.com/soaebhasan12/govvault) | [Live](https://govvault-frontend.vercel.app/)
+  - Built a RAG assistant that parses PDFs (PyMuPDF), generates on-device embeddings (SentenceTransformers) and retrieves top matches from pgvector
+  - Returns page-level cited answers via Groq; async ingestion with Celery/Redis
+  - Deployed as a Django REST API with React/Tailwind frontend
 
 - **Android Malware Detection using Multi-View Transformer** (Python | PyTorch | Transformers | Deep Learning | NLP | DistilBERT | LIME | SHAP)
   - Built MalBERT-XAI, a multi-view transformer architecture with cross-attention fusion for Android malware detection, achieving 99.5% binary accuracy and 94.3% family classification
   - Engineered a 4-view feature pipeline extracting permissions, API calls, intents, and opcodes from APKs, replacing single-input approach and improving accuracy from 91.6% to 99.5%
   - Implemented a 3-level explainability framework (attention weights + SHAP + LIME) to interpret model decisions at view-level, global, and token-level granularity
 
-- **AI-Powered Organ Matching Platform** (Django | Python | Scikit-learn | Tailwind | HTMX | Alpine.js) - [Live Project](https://organbridge-qjin.onrender.com/)
+- **AI-Powered Organ Matching Platform** (Django | Python | Scikit-learn | Tailwind | HTMX | Alpine.js)
   - **Problem:** Manual donor-recipient matching is slow and error-prone in organ transplant systems.
 
   - **Solution Built:**
@@ -85,16 +100,6 @@ solve real problems and learn from experienced teams.
     - Visualization: Created heatmaps and scatter plots to communicate findings
   
   - **Key Learning:** ML project workflow — EDA → feature engineering → model selection → validation
- 
-- **BarberBook — Full-Stack Mobile Booking Marketplace** (React Native | Expo | Node.js | Express | MongoDB | Razorpay | Firebase FCM) - [GitHub Repo](https://github.com/soaebhasan12/barber-app-frontend)
-  - **Problem:** Local barbershops and salons rely on phone calls and walk-ins for bookings, leading to double-bookings, no-shows, and no centralized way for owners to manage staff, services, or daily schedules.
-  - **Solution Built:**
-    - Built a two-sided marketplace app end-to-end (mobile frontend + REST API backend) supporting separate customer and shop-owner experiences on one codebase
-    - Implemented phone-number + OTP authentication with stateless JWT sessions, and Razorpay payment integration with server-side HMAC-SHA256 signature verification
-    - Designed a real-time booking engine with timezone-safe (IST) slot-availability logic and Firebase Cloud Messaging push notifications, including per-device token scoping to prevent cross-account notification leaks
-    - Executed a full app-wide UI/UX redesign (color system, iconography, navigation) through a single centralized design-token theme file, avoiding hardcoded styling across 10+ screens
-
-  - **Key Learning:** Designing for statelessness (JWT) and single-source-of-truth theming early made both security and large-scale visual changes dramatically cheaper later in the project.
 
 ---
 
