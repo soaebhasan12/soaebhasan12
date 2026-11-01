@@ -354,6 +354,12 @@ solve real problems and learn from experienced teams.
 
 ---
 
+## 🐟 Git Koi
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="Soaeb's Git Koi" />
+</p>
+
 ## 🐍 Snake Animation
 
 ![Snake animation (dark)](https://raw.githubusercontent.com/soaebhasan12/soaebhasan12/output/github-snake-dark.svg)
