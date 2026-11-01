@@ -19,7 +19,7 @@ jobs:
         uses: yalongwastaken/git-koi@v1
         with:
           login: soaebhasan12
-          body: asagi # Options: white, black, asagi, tea, gold, platinum
+          body: white # Options: white, black, asagi, tea, gold, platinum
           output-dir: koi
           token: ${{ secrets.GITHUB_TOKEN }}
 
