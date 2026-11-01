@@ -150,7 +150,7 @@ solve real problems and learn from experienced teams.
       <div style="display: flex; flex-direction: column; gap: 12px;">
         <!-- LinkedIn -->
         <div>
-          <a href="https://www.linkedin.com/in/shoaib-ahmad-789827360" target="_blank">
+          <a href="https://www.linkedin.com/in/soaeb-hasan-a590a3318" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
           </a>
         </div>
@@ -306,59 +306,61 @@ solve real problems and learn from experienced teams.
 
 <!-- GitHub Stats Table -->
 <table align="center" width="100%" style="max-width: 900px; margin: auto;">
-  <!-- Rocket Banner -->
+  <!-- Rocket Banner (Root folder me rocket.gif hona zaroori hai) -->
   <tr>
     <td colspan="2" align="center">
       <img src="rocket.gif" alt="Banner" width="75%" style="height: auto;" />
     </td>
   </tr>
 
+  <!-- Profile Details Card -->
   <tr>
     <td colspan="2" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soaebhasan12&theme=github_dark"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soaebhasan12&theme=github_dark" alt="Profile Details" />
     </td>
   </tr>
 
-  <!-- GitHub Stats & Top Languages -->
-  <tr>
-    <td align="center" width="50%">
-      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=soaebhasan12&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Stats" />
-      </div>
-    </td>
-    <td align="center" width="50%">
-      <div style="border: 2px solid white; border-radius: 10px; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soaebhasan12&layout=compact&langs_count=6&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="Top Languages" />
-      </div>
-    </td>
-  </tr>
+<!-- GitHub Stats & Top Languages -->
+<tr>
+  <td align="center" width="50%">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=soaebhasan12&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" width="95%" style="max-width: 450px;" alt="GitHub Stats" />
+  </td>
+  <td align="center" width="50%">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=soaebhasan12&layout=compact&langs_count=6&theme=dark&hide_border=false" width="95%" style="max-width: 450px;" alt="Top Languages" />
+  </td>
+</tr>
 
-  <!-- GitHub Streak & Trophies -->
-  
-  <tr>
-    <td colspan="2" align="center">
-      <a href="https://git.io/streak-stats">
-          <img src="https://git-hub-streak-stats.vercel.app?user=soaebhasan12&theme=dark&hide_border=false" width="95%" style="max-width: 450px; height: auto;" alt="GitHub Streak" />
-        </a>
-    </td>
-    <td colspan="2" align="center">
-      <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=soaebhasan12&column=7&theme=onedark" alt="GitHub Trophies" />
-      </p>  
-    </td>
-  </tr>
-
+<!-- GitHub Streak & Trophies -->
+<tr>
+  <td align="center" width="50%">
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img src="https://streak-stats.demolab.com?user=soaebhasan12&theme=dark&hide_border=false" width="95%" style="max-width: 450px;" alt="GitHub Streak" />
+    </a>
+  </td>
+  <td align="center" width="50%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soaebhasan12&theme=github_dark&utcOffset=5.5" width="95%" style="max-width: 450px;" alt="Productive Time" />
+  </td>
+</tr>
 </table>
-
-<!-- ![Gitartwork](https://raw.githubusercontent.com/tubakhxn/tubakhxn/main/gitartwork.svg) -->
 
 ---
 
-## 🐟 Git Koi
-
-<p align="center">
-  <img src="koi/koi.gif" width="256" alt="Soaeb's Git Koi" />
-</p>
+<picture>
+  <img align="left" width="45%" src="https://raw.githubusercontent.com/yalongwastaken/yalongwastaken/main/assets/riser.svg" alt="">
+</picture>
+<a href="https://github.com/yalongwastaken/git-koi">
+  <img src="koi/koi.gif" align="right" width="45%" alt="Soaeb's Git Koi">
+</a>
+<picture>
+  <img align="right" width="5%" src="https://raw.githubusercontent.com/yalongwastaken/yalongwastaken/main/assets/divider.svg" alt="">
+</picture>
+<picture>
+  <img align="left" width="8%" src="https://raw.githubusercontent.com/yalongwastaken/yalongwastaken/main/assets/spacer.svg" alt="">
+</picture>
+<a href="https://egorthinks.github.io/git-bonsai/?u=soaebhasan12">
+  <img src="output/bonsai.gif" align="left" width="37%" alt="Soaeb's Git Bonsai">
+</a>
+<br clear="all">
 
 ## 🐍 Snake Animation
 
@@ -376,9 +378,6 @@ solve real problems and learn from experienced teams.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=soaebhasan12&label=FANS&color=blue&style=flat" alt="soaebhasan12 Profile Views" />
 </p>
-
-
-<div align="center"><table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/soaebhasan12/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/soaebhasan12/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/soaebhasan12/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table></div>
 
 <!-- Footer Wave -->
 <p align="center">
