@@ -1,0 +1,43 @@
+name: bonsai
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/bonsai.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bonsai-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Bonsai
+        uses: egorthinks/git-bonsai@main
+        with:
+          user: soaebhasan12
+          output_dir: output
+          commit: 'false'
+
+      - name: Commit Bonsai
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output
+          if git diff --cached --quiet; then
+            echo "bonsai unchanged — nothing to commit"
+            exit 0
+          fi
+          git commit -m "chore: tend the bonsai 🌳"
+          git push
